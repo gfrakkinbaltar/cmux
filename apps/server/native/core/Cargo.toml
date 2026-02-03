@@ -19,7 +19,7 @@ dirs-next = "2"
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
 tokio = { version = "1", features = ["rt", "rt-multi-thread"] }
-gix = { version = "0.66", default-features = true, features = ["status", "revision"] }
+gix = { version = "0.78", default-features = true, features = ["status", "revision"] }
 similar = "2"
 
 [dev-dependencies]

@@ -24,4 +24,4 @@ strip = true
 [dev-dependencies]
 tokio = { version = "1", features = ["full"] }
 tokio-tungstenite = "0.21"
-tungstenite = "0.21"
+tungstenite = "0.28"
